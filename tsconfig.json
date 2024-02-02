@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "noEmitOnError":  true,
+    "module": "CommonJS",
+    "target": "ES6",
+    "allowJs": true,
+    "checkJs": false,
+    "removeComments": true,
+    "strict": true,
+    "lib": [ "es6" , "ES2021", "DOM"],
+    "sourceMap": false,
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "build",
+    "webpack.config.js",
+    "node_modules"
+  ]
+}

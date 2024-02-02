@@ -1,0 +1,3 @@
+@hostname=127.0.0.1
+@port=80
+GET http://{{hostname}}:{{port}}/api/H:1D670A1783307C2/P:DEVELOPE/B:1D6DABBD5595686/M:1DA192D7AFAF934/C:1DA192D8470F390?execute=send

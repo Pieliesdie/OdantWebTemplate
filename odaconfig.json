@@ -1,0 +1,14 @@
+{
+  "location": {
+    "link": "http://192.168.13.135:8080/api/H:1D9CF476038BD3F/D:WORK/D:1D66FB93FEDD628/D:1DA192D7AFAF934/C:1DA192D8470F390",
+    "source": "class",
+    "type": "tasks",
+    "method": "on-start"
+  },
+  "location1": {
+    "link": "http://127.0.0.1/api/H:1D670A1783307C2/P:DEVELOPE/B:1D6DABBD5595686/M:1DA192D7AFAF934/C:1DA192D8470F390",
+    "source": "class",
+    "type": "methods",
+    "method": "send"
+  }
+}
